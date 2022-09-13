@@ -1,0 +1,81 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\scopedcss\bundle\WebApplicationZDZ.styles.css
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\refint\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdz_Teste_Andre_Castro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\ref\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\scopedcss\bundle\WebApplicationZDZ.styles.css
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\refint\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\ref\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\scopedcss\bundle\WebApplicationZDZ.styles.css
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.csproj.CopyComplete
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\refint\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\WebApplicationZDZ.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Zdz_Teste 13.09.22\zdzAppTeste\API\WebApplicationZDZ\WebApplicationZDZ\obj\Debug\net6.0\ref\WebApplicationZDZ.dll

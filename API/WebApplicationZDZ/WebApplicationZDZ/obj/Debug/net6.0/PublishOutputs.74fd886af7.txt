@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\WebApplicationZDZ.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\WebApplicationZDZ.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\WebApplicationZDZ.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\WebApplicationZDZ.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\WebApplicationZDZ.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Teste - zdz\zdzTesteAndreCastro\API\WebApplicationZDZ\WebApplicationZDZ\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
